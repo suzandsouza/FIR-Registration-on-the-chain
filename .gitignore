@@ -4,10 +4,10 @@ coverage
 coverage.json
 typechain
 typechain-types
-*hardhat.config.js
+*.js
 #Hardhat files
 cache
 artifacts
-/yarn.lock
-/package.json
+*.lock
+*.json
 
